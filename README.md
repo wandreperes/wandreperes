@@ -1,6 +1,6 @@
 Hi, I’m @wandreperes!
 
-I’m interested in JavaScript, PHP, MySQL and C#.
+I’m interested in JavaScript, PHP and MySQL.
 
 😎
 <!---
