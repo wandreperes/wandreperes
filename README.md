@@ -1,6 +1,6 @@
 Hi, I’m @wandreperes!
 
-I’m interested in JavaScript, PHP and MySQL.
+I’m interested in nodejs, typescript, react, nextjs, php, mysql.
 
 😎
 <!---
